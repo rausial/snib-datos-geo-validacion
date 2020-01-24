@@ -1,0 +1,2 @@
+,especievalida,gridid,longitud,latitud,cuarentena,isoutlier,ms_cluster,tscore,clasevalida,ordenvalido,familiavalida,altitudmapa,ambiente,aniocolecta,probablelocnodecampo,version,urlejemplar,idejemplar,sospechoso,razon_sospecha
+0,Ferocactus diguetii,82461,-110.7583333,24.4083333,,True,0,-394.31,Equisetopsida,Caryophyllales,Cactaceae,338,Terrestre,9999,,2017-12,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=de936c1d0dd05f6d0673500138a48809,de936c1d0dd05f6d0673500138a48809,Si,"aunque fuera del polígono, dentro del Estado citado en Literatura, es originaria de Norteamérica"
