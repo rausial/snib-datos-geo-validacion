@@ -1,0 +1,2 @@
+La especie Craugastor pozo es conocida sólo para las tierras altas de Chiapas entre Cintalapa y la Presa Netzahualcoyotl.
+El registro con Id 6f0e3217b5464f4da3846b82c430052c fue marcado como sospechoso, aunque se ubica dentro del Estado de Chiapas, pero agregué la palabra No en el campo DistConocida porque aunque no existen polígonos de distribución conocida ni potencial, sí se localiza dentro de dicho Estado, pero no se encuentra dentro del rango de distribución documentada.
