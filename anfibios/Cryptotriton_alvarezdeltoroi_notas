@@ -1,0 +1,5 @@
+La especie Cryptotriton alvarezdeltoroi es conocida sólo para las Sierras del norte de Chiapas, cerca de la localidad "Tapilula", con rangos altitudinales de 1200 y 1550 msnm.
+El registro con Id 49f78ff14194f816b20fa842cc397300 fue marcado como sospechoso, con la marca Si en el campo EstadoDoc ya que se ubica dentro del Estado de Chiapas. 
+Agregué la palabra No en el campo DistConocida, aunque no existen polígonos de distribución conocida ni potencial es sospecho a la Localidad.
+También agregué la palabra Si en el campo Buffer (Km) porque se observa relativamente cerca del resto de los registros ubicados en la localidad referida.
+Altitud registrada para el sitio del ejemplar 1500 msnm también dentro del rango citado en Literatura
