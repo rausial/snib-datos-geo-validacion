@@ -1,0 +1,6 @@
+La especie Plectrohyla ixil presenta una distribución reportada en Literatura para el estado de Chiapas dentro de los hábitats naturales montanos secos y los ríos. También
+presente en Guatemala.
+Los ejemplares con Id 0b97407794ee8da7da39e580c02fa31b y 7b08580b5ce473d71abb13df73af7fd7, a pesar de ubicarse en el estado de Chiapas se observan alejados del polígono potencial y en un hábitat ajeno al que refiere la literatura,
+defitivamente son ejemplares sospechosos y por ese motivo puede verse la palabra "No" en el campo "EstadoDoc" a pesar de que sí se localizan en Chiapas. Uno pertenece al gbif_2017 y el año
+de colecta es de 1969, el otro ejemplar corresponde al proyecto U014 sin dato del año de colecta, lo que puede explicar que se produjo un cambio a nivel taxonómico de actualización del nombre 
+y por lo tanto afectar también la distribución correspondiente.
