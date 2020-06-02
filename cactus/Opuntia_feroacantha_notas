@@ -1,0 +1,6 @@
+La especie Opuntia feroacantha no cuenta con polígono de distribución conocida ni potencial, las marcas de los ejemplares sospechosos se refieren a los
+que se ubicaron fuera de los Estados referidos en Enciclovida, sin embargo, el registro con Idejemplar bfd855d8f2de11ad8827b2f8dcf9f9a9 aunque tiene la marca
+"No" en el campo "EstadoDoc", se ubica muy cerca del "Buffer (Km)" por lo que queda dentro del Estado con margen de tolerancia.
+
+El restro de los registros sospechosos (los 6 restantes), a pesar de encontrarse también dentro del rango de los 5 kilómetros de tolerancia y ser marcados 
+con la palabra "Si" en el campo "Buffer (Km)" y la palabra "No" en el campo "EstadoDoc", es importante disntinguir que se encuentran en vegetación ajena a la especie. 
