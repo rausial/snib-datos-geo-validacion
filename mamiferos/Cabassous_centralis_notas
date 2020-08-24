@@ -1,0 +1,4 @@
+La especie Cabassous centralis cuenta con polígono potencial y su distribución, de acuerdo a Enciclovida, se localiza en el estado de Chiapas.
+El registro con Idejemplar fbe8d92e0e6db97fc9c2c131bb863279 se ubica en el polígono que comprende a Guatemala, por tal motivo se marcó con la palabra
+"No" en el campo "EstadoDoc", sin embargo, puede considerarse dentro del estado de Chiapas con margen de tolerancia, por tal motivo se marcó con la 
+palabra "Si" en el campo "Buffer (Km)"
