@@ -1,0 +1,7 @@
+La especie Coendou mexicanus cuenta con polígono potencial así como los nombres de los Estados registrados en Literatura de acuerdo a Enciclovida,
+sin embargo, hay dos registros que se marcaron como sospechosos debido a que se ubican fuera del polígono potencial pero muy cerca del borde, por lo
+que se pueden considerar dentro del margen de tolerancia, pero además se localizan en el mar, por eso contienen la marca "No" en los campos "DistPotencial",
+"EstadoDoc" y "ValidoAmbiente" pero la palabra "Si" en el campo "Buffer (Km)"
+
+9e04b51af750a472292f92d11bef8c51
+d79c32571958c731115844ba81f95342
