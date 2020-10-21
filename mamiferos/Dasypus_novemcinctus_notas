@@ -1,0 +1,13 @@
+La especie Dasypus novemcinctus cuenta con polígono potencial así como una amplia lista (27 nombres) de Estados cuya distribución ha sido 
+reportada en Literatura de acuerdo a Enciclovida. Hay 3 registros sosechosos que provienen del proyecto T009, no cuentan con año de colecta
+y son registros "reportados" en el campo "procedenciaejemplar", probablemente consisten en ejemplares históricos pero sin fecha de colecta 
+no es posible distinguirlos.
+La vegetación en la que se reportan de manera original tampoco parece coincidir con la propia de la especie, lo que inclina más la información
+a considerarlos como ejemplares sospechosos a pesar que dos de ellos se localizan dentro de los estados referidos mismos que son Coahuila y Durango.
+4b4ea793f4a96c4c79b65186763ce705 (Coahuila)
+77fdf4c33b080b68700c73831fd37d63 (Chihuahua no reportado en Literatura)
+bf3ee6c7bbc8150c28b5ec41952e3548 (Durango)
+
+Otro ejemplar por destacar es el aca0e4b4fe2d387b066a5bacd833307e que se ubica en Guatemala pero se le puede considerar dentro con margen de 
+tolerancia, razón por la cual se marcó con la palabra "Si" en el campo "Buffer (Km)" pero con la palabra "No" en los campos "DistPotencial" y
+"EstadoDoc"
