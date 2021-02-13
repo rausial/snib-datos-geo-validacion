@@ -1,0 +1,7 @@
+La especie Sturnira ludovici cuenta con polígono potencial, sin embargo, en la ficha de descripción de la especie en
+Enciclovida no se enlistan los nombres de los Estados de la Distribución reportada en literatura, por lo que se marcaron
+con la palabra "No" en el campo "EstadoDoc" todos los registros que se ubicaron fuera del polígono y fuera del buffer.
+
+Por otro lado, en Enciclovida se hace referencia a que es una especie de amplia distribución, enlistado los países en lo que
+se distribuye: Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guayana, Honduras, Mexico, Nicaragua, Panamá y Venezuela,
+basados en dicha información podrían considerarse a todos los registros dentro de los Estados.
